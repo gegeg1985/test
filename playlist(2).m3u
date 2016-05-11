@@ -1,0 +1,595 @@
+#EXTM3U
+#EXTINF:0,RTP1
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/19.ts
+#EXTINF:0,RTP2
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/123.ts
+#EXTINF:0,SIC
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/6.ts
+#EXTINF:0,TVI
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1.ts
+#EXTINF:0,TVI Reality
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/988.ts
+#EXTINF:0,Canal Q
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/843.ts
+#EXTINF:0,TVI Ficçao
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/12.ts
+#EXTINF:0,Sic Radical
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/395.ts
+#EXTINF:0,SIC Mulher
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/58.ts
+#EXTINF:0,Sic Caras
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/456.ts
+#EXTINF:0,TVI 24
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/124.ts
+#EXTINF:0,RTP Internacional
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1773.ts
+#EXTINF:0,RTP3
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1070.ts
+#EXTINF:0,RTP Memoria
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/845.ts
+#EXTINF:0,RTP Madeira
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/825.ts
+#EXTINF:0,RTP Acores
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/824.ts
+#EXTINF:0,Porto Canal
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/398.ts
+#EXTINF:0,SIC Noticias
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/51.ts
+#EXTINF:0,CM TV
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/26.ts
+#EXTINF:0,RTP Africa
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/400.ts
+#EXTINF:0,Cancao Nova
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/2167.ts
+#EXTINF:0,Santuario de Fatima
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/2407.ts
+#EXTINF:0,TV Globo Internacional
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/135.ts
+#EXTINF:0,TV Globo Premium
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/16.ts
+#EXTINF:0,Globo
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/130.ts
+#EXTINF:0,Tv Record
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/129.ts
+#EXTINF:0,MTV Portugal
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/841.ts
+#EXTINF:0,MCM POP
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/144.ts
+#EXTINF:0,Trace TV
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/367.ts
+#EXTINF:0,Afro Music
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/142.ts
+#EXTINF:0,VH1
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/459.ts
+#EXTINF:0,C-Music
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/630.ts
+#EXTINF:0,Sportv1 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/98.ts
+#EXTINF:0,Sportv2 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/104.ts
+#EXTINF:0,Sportv3 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/2028.ts
+#EXTINF:0,Sportv4 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/847.ts
+#EXTINF:0,Sportv5 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1089.ts
+#EXTINF:0,Sportv1
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/2.ts
+#EXTINF:0,Sportv2
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/10.ts
+#EXTINF:0,Sportv3
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/8.ts
+#EXTINF:0,Sportv4
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/55.ts
+#EXTINF:0,Sportv5
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/36.ts
+#EXTINF:0,BenficaTV1 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/103.ts
+#EXTINF:0,BenficaTV2 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1088.ts
+#EXTINF:0,BenficaTV1
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/100.ts
+#EXTINF:0,BenficaTV2
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/21.ts
+#EXTINF:0,PFC
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/399.ts
+#EXTINF:0,Eurosport HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/132.ts
+#EXTINF:0,Eurosport 2
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/846.ts
+#EXTINF:0,Sporting TV HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/48.ts
+#EXTINF:0,Fight Network
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/2405.ts
+#EXTINF:0,Bola TV
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/13.ts
+#EXTINF:0,TVCINE 1 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/836.ts
+#EXTINF:0,TVCINE 2 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/837.ts
+#EXTINF:0,TVCINE 3 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/838.ts
+#EXTINF:0,TVCINE 4 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/839.ts
+#EXTINF:0,TV Series HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/848.ts
+#EXTINF:0,Hollywood HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/835.ts
+#EXTINF:0,TVC1
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/9.ts
+#EXTINF:0,TVC2
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/22.ts
+#EXTINF:0,TVC3
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/7.ts
+#EXTINF:0,TVC4
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/23.ts
+#EXTINF:0,TV Series
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/25.ts
+#EXTINF:0,Canal Hollywood Portugal
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/60.ts
+#EXTINF:0,AXN HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/4.ts
+#EXTINF:0,AXN White HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/127.ts
+#EXTINF:0,AXN Black HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/97.ts
+#EXTINF:0,FOX HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/5.ts
+#EXTINF:0,FOX CRIME HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/86.ts
+#EXTINF:0,FOX Life HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/85.ts
+#EXTINF:0,MOV HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/393.ts
+#EXTINF:0,AMC
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/842.ts
+#EXTINF:0,Cinemundo
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/54.ts
+#EXTINF:0,Sy Fy Portugal
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/44.ts
+#EXTINF:0,Fox Movies
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/79.ts
+#EXTINF:0,Fox Comedy
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/145.ts
+#EXTINF:0,Disney Junior
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/37.ts
+#EXTINF:0,Nickelodeon
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/62.ts
+#EXTINF:0,Canal Panda
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/3.ts
+#EXTINF:0,Panda Biggs
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/458.ts
+#EXTINF:0,SIC K
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/133.ts
+#EXTINF:0,Disney Channel Portugal
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/11.ts
+#EXTINF:0,BabyTV
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/110.ts
+#EXTINF:0,Baby First
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/844.ts
+#EXTINF:0,JIMJAM
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/56.ts
+#EXTINF:0,Cartoon Network
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/402.ts
+#EXTINF:0,Food Network
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/2030.ts
+#EXTINF:0,A e E
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/397.ts
+#EXTINF:0,TLC
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/371.ts
+#EXTINF:0,24 Kitchen HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/840.ts
+#EXTINF:0,E! Entertainment TV
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/403.ts
+#EXTINF:0,Canal de Historia
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/131.ts
+#EXTINF:0,National Geographique HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/297.ts
+#EXTINF:0,Travel Channel HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/849.ts
+#EXTINF:0,Discovery HD Showcase
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/457.ts
+#EXTINF:0,NatGeo Wild
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/141.ts
+#EXTINF:0,Odisseia
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/47.ts
+#EXTINF:0,Outdoor
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/2408.ts
+#EXTINF:0,Discovery Channel
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/46.ts
+#EXTINF:0,Motorvision
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/63.ts
+#EXTINF:0,MotorsTV
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/45.ts
+#EXTINF:0,Toros TV
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/35.ts
+#EXTINF:0,Caça & Pesca
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/65.ts
+#EXTINF:0,Caçavision
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/27.ts
+#EXTINF:0,HOT
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/38.ts
+#EXTINF:0,Playboy
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/68.ts
+#EXTINF:0,Venus
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/24.ts
+#EXTINF:0,Dorcel TV
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/147.ts
+#EXTINF:0,Evil Angel TV
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/149.ts
+#EXTINF:0,PENTHOUSE HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/2029.ts
+#EXTINF:0,Sextreme
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/2406.ts
+#EXTINF:0,RTS Un
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/318.ts
+#EXTINF:0,RTS Deux
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/936.ts
+#EXTINF:0,TF1 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/886.ts
+#EXTINF:0,M6 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/908.ts
+#EXTINF:0,France 2 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/857.ts
+#EXTINF:0,France 3 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1077.ts
+#EXTINF:0,France 4 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/316.ts
+#EXTINF:0,France 5 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/491.ts
+#EXTINF:0,France O
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1802.ts
+#EXTINF:0,13 ème Rue HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/859.ts
+#EXTINF:0,HD 1
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1772.ts
+#EXTINF:0,RTL 9 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/425.ts
+#EXTINF:0,NT1
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/492.ts
+#EXTINF:0,W9
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/324.ts
+#EXTINF:0,D8 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/325.ts
+#EXTINF:0,D17
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/327.ts
+#EXTINF:0,NRJ12
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/331.ts
+#EXTINF:0,Chérie 25
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1780.ts
+#EXTINF:0,Numéro 23
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1789.ts
+#EXTINF:0,TV Breizh HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1800.ts
+#EXTINF:0,CANAL+ HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/871.ts
+#EXTINF:0,Canal + Cinema HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/292.ts
+#EXTINF:0,CANAL+ Family HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/868.ts
+#EXTINF:0,Cine+ Premier HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/875.ts
+#EXTINF:0,Cine+ Famiz HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1080.ts
+#EXTINF:0,Cine+ Classic HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1804.ts
+#EXTINF:0,Ciné+ Frisson HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1777.ts
+#EXTINF:0,Ciné+ Emotion HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1776.ts
+#EXTINF:0,Ciné+ Club HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1781.ts
+#EXTINF:0,Cine Polar HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1079.ts
+#EXTINF:0,Cine FX HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1078.ts
+#EXTINF:0,Action HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1774.ts
+#EXTINF:0,TCM Cinéma HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1786.ts
+#EXTINF:0,Paramount Channel HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1806.ts
+#EXTINF:0,TMC Monte Carlo
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/448.ts
+#EXTINF:0,CANAL+ Decale HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/865.ts
+#EXTINF:0,CANAL+ Series HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/873.ts
+#EXTINF:0,SyFy HD F
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/885.ts
+#EXTINF:0,E! France HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/896.ts
+#EXTINF:0,Comedie+ HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/876.ts
+#EXTINF:0,AB1 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1801.ts
+#EXTINF:0,MCM TOP
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/495.ts
+#EXTINF:0,MCM France HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1787.ts
+#EXTINF:0,Mezzo Live HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1808.ts
+#EXTINF:0,Canal + Sport HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/294.ts
+#EXTINF:0,beIN Sports 1 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/384.ts
+#EXTINF:0,beIN Sports 2 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/460.ts
+#EXTINF:0,beIN Sports 3 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/854.ts
+#EXTINF:0,Infosport+ HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/877.ts
+#EXTINF:0,Eurosport F HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/901.ts
+#EXTINF:0,Eurosport 2 F HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/899.ts
+#EXTINF:0,Ma Chaine SPORT
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/867.ts
+#EXTINF:0,Trace Sports HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1788.ts
+#EXTINF:0,L’Equipe 21
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1784.ts
+#EXTINF:0,Equidia Live HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1783.ts
+#EXTINF:0,Equidia Life HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1782.ts
+#EXTINF:0,Extremesports
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/860.ts
+#EXTINF:0,Motors TV
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/870.ts
+#EXTINF:0,Golf Channel France HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/903.ts
+#EXTINF:0,GOLF + HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1271.ts
+#EXTINF:0,Seasons HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/898.ts
+#EXTINF:0,June
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/866.ts
+#EXTINF:0,Planete+ CI HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/905.ts
+#EXTINF:0,Planete+ A&E HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/906.ts
+#EXTINF:0,Nat Geo F HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/900.ts
+#EXTINF:0,Disney Channel HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/882.ts
+#EXTINF:0,Disney Junior HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/889.ts
+#EXTINF:0,Disney Cinema HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/884.ts
+#EXTINF:0,Disney XD HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/894.ts
+#EXTINF:0,Nickelodeon FR
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/874.ts
+#EXTINF:0,Nick Jr. France
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/904.ts
+#EXTINF:0,Teletoon+ HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/902.ts
+#EXTINF:0,Canal J HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/862.ts
+#EXTINF:0,Mangas HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/2526.ts
+#EXTINF:0,Gulli
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/328.ts
+#EXTINF:0,Piwi+ HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/878.ts
+#EXTINF:0,Tiji HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/888.ts
+#EXTINF:0,Boomerang France HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1775.ts
+#EXTINF:0,Boing France HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1778.ts
+#EXTINF:0,Discovery Science HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1805.ts
+#EXTINF:0,Nat Geo Wild France HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1785.ts
+#EXTINF:0,Discovery France HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1779.ts
+#EXTINF:0,Animaux HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/494.ts
+#EXTINF:0,Voyage HD FR
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1807.ts
+#EXTINF:0,Trek HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1803.ts
+#EXTINF:0,Histoire HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/881.ts
+#EXTINF:0,Ushuaia TV HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1790.ts
+#EXTINF:0,—– TV Espana @STM —–
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1084.ts
+#EXTINF:0,LA 1 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1257.ts
+#EXTINF:0,ANTENA 3 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1264.ts
+#EXTINF:0,CUATRO HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1268.ts
+#EXTINF:0,TELECINCO HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1263.ts
+#EXTINF:0,LA SEXTA HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1262.ts
+#EXTINF:0,LA 1
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/429.ts
+#EXTINF:0,LA 2
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/426.ts
+#EXTINF:0,Antena 3
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/467.ts
+#EXTINF:0,Cuatro
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/430.ts
+#EXTINF:0,Telecinco
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/431.ts
+#EXTINF:0,La Sexta
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/432.ts
+#EXTINF:0,Antena Nova
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/485.ts
+#EXTINF:0,TV Galicia
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/935.ts
+#EXTINF:0,TNT
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/435.ts
+#EXTINF:0,Calle 13
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/475.ts
+#EXTINF:0,CLAN TVE ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/915.ts
+#EXTINF:0,CANAL SUR A. ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/914.ts
+#EXTINF:0,Canal ESTRELLAS
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1276.ts
+#EXTINF:0,COSMO ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/916.ts
+#EXTINF:0,Neox
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/471.ts
+#EXTINF:0,CANAL+ HD ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1275.ts
+#EXTINF:0,C+ XTRA HD ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1266.ts
+#EXTINF:0,C+ XTRA ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/913.ts
+#EXTINF:0,C+ SERIESXTRA ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/912.ts
+#EXTINF:0,C+ ESTRENOS HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1267.ts
+#EXTINF:0,C+ ESTRENOS ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/911.ts
+#EXTINF:0,C+ DCINE HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1259.ts
+#EXTINF:0,C+ DCINE
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1075.ts
+#EXTINF:0,C+ COMEDIA
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1074.ts
+#EXTINF:0,C+ ACCION HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1258.ts
+#EXTINF:0,C+ ACCION
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1072.ts
+#EXTINF:0,C+ SERIES HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1261.ts
+#EXTINF:0,Paramount ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/932.ts
+#EXTINF:0,AXN WHITE HD ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1265.ts
+#EXTINF:0,AXN WHITE ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/488.ts
+#EXTINF:0,AXN ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/482.ts
+#EXTINF:0,FOX Life ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/483.ts
+#EXTINF:0,FOX HD ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1270.ts
+#EXTINF:0,Fox ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/465.ts
+#EXTINF:0,Hollywood ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/434.ts
+#EXTINF:0,DCINE ESPANOL ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/917.ts
+#EXTINF:0,Comedy Central Spain
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/442.ts
+#EXTINF:0,SYFY HD ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1273.ts
+#EXTINF:0,C+ Liga HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1253.ts
+#EXTINF:0,C+ LIGA 2 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1254.ts
+#EXTINF:0,C+ FUTBOL HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1255.ts
+#EXTINF:0,C+ DEP 2 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1256.ts
+#EXTINF:0,C+ Partidazo HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1269.ts
+#EXTINF:0,beIN Sport Spain HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/983.ts
+#EXTINF:0,Canal + Liga
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/466.ts
+#EXTINF:0,Canal + Futbol
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/477.ts
+#EXTINF:0,Canal + Desportes
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/476.ts
+#EXTINF:0,Canal + Desporte 2
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/473.ts
+#EXTINF:0,C+ GOLF
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1076.ts
+#EXTINF:0,Teledeporte
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/440.ts
+#EXTINF:0,R. MADRID TV ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/933.ts
+#EXTINF:0,M. MOTOGP HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1260.ts
+#EXTINF:0,M. MOTOGP ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/922.ts
+#EXTINF:0,MOVISTAR F1 HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1272.ts
+#EXTINF:0,CAZA Y PESCA ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/930.ts
+#EXTINF:0,24 HORAS ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/909.ts
+#EXTINF:0,MTV Espagna
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1281.ts
+#EXTINF:0,Divinity
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1279.ts
+#EXTINF:0,Disney Junior ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/484.ts
+#EXTINF:0,Canal Panda ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/469.ts
+#EXTINF:0,Disney Channel ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/438.ts
+#EXTINF:0,DISNEY XD ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/918.ts
+#EXTINF:0,YOMVI ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/934.ts
+#EXTINF:0,Baby TV ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1278.ts
+#EXTINF:0,BOING ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1277.ts
+#EXTINF:0,National Geographic Spain
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/480.ts
+#EXTINF:0,NAT GEO WILD ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/923.ts
+#EXTINF:0,HISTORIA ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/921.ts
+#EXTINF:0,Canal Cocina
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/441.ts
+#EXTINF:0,VIAJAR HD
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1274.ts
+#EXTINF:0,VIAJAR ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/927.ts
+#EXTINF:0,A e E ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/910.ts
+#EXTINF:0,TCM ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/926.ts
+#EXTINF:0,NON STOP PEOPLE ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/924.ts
+#EXTINF:0,FDF ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/920.ts
+#EXTINF:0,FASHION TV ES
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/919.ts
+#EXTINF:0,Sky Sport HD 1 DE
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1282.ts
+#EXTINF:0,Sky Sport HD 2 DE
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1287.ts
+#EXTINF:0,TC Sport 1
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1352.ts
+#EXTINF:0,TC Sport 2
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1353.ts
+#EXTINF:0,TC Sport 3
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1354.ts
+#EXTINF:0,Sky Cinema 1 HD DE
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1283.ts
+#EXTINF:0,Sky Comedy
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1293.ts
+#EXTINF:0,Sky Action
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1292.ts
+#EXTINF:0,TNT Film
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1286.ts
+#EXTINF:0,TC Star
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1351.ts
+#EXTINF:0,TC Prime
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1350.ts
+#EXTINF:0,TC Cinema
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1349.ts
+#EXTINF:0,Disney XD DE
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1290.ts
+#EXTINF:0,Disney Junior DE
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1289.ts
+#EXTINF:0,Disney Cinemagic HD DE
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1288.ts
+#EXTINF:0,Discovery HD DE
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1284.ts
+#EXTINF:0,Nat Geo Wild HD DE
+#EXTINF:0,http://ftvnext.stmteam.org:8000/live/delia/delia/1285.ts
