@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1,ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1,Tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1,ZDF
+http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
+#EXTINF:-1,ZDF neo
+http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
+#EXTINF:-1,ZDF info
+http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
+#EXTINF:-1,MDR Sachsen
+http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/index_1728_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Phoenix
+http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8?dw=0
+#EXTINF:-1,JOIZ HD
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8
+#EXTINF:-1,N24
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
+#EXTINF:-1,ORF 1 HD
+http://185.85.28.20/orf1/q8c.sdp/chunklist.m3u8
+#EXTINF:-1,ORF 2 HD
+http://185.85.28.20/orf2/q8c.sdp/chunklist.m3u8
+#EXTINF:-1,ORF 3 HD
+http://185.85.28.20/orf3/q8c.sdp/chunklist.m3u8
+#EXTINF:-1,ORF Sport+ HD
+http://185.85.28.20/orfs/q8c.sdp/chunklist.m3u8
+#EXTINF:-1,Servus TV HD
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+#EXTINF:-1,ANIXE
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://51.255.81.190:8080/DE:Sky-Bundesliga-1-HD/mono.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://51.255.81.190:8080/DE-Sky-Sport-1HD/mono.m3u8
+#EXTINF:-1,MTV DANCE
+http://62.210.251.159/iptv/LCCXW5PCPRZCUY/558/index.m3u8
+#EXTINF:-1,MTV HITS
+http://62.210.251.159/iptv/LCCXW5PCPRZCUY/153/index.m3u8
+#EXTINF:-1,VEVO TV DE HD
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/appleman.m3u8
+#EXTINF:-1,VEVO 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,VEVO 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,VEVO 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,NASA TV HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1,ZDF
+http://93.189.144.154:8085/media/hls_154/zdf/index.m3u8
+#EXTINF:-1,Vox
+http://93.189.144.154:8085/media/hls_154/vox/index.m3u8
+#EXTINF:-1,RTL
+http://93.189.144.154:8085/media/hls_154/rtl/index.m3u8
+#EXTINF:-1,RTL 2
+http://93.189.144.154:8085/media/hls_154/rtl2/index.m3u8
+#EXTINF:-1,Super RTL
+http://93.189.144.154:8085/media/hls_154/super_rtl/index.m3u8
+#EXTINF:-1,Kika
+http://93.189.144.154:8085/media/hls_154/kika/index.m3u8
+#EXTINF:-1,NTV
+http://93.189.144.154:8085/media/hls_154/n_tv/index.m3u8
+#EXTINF:-1,VH1
+http://80.80.58.167:8070/hls/vh1.m3u8
+
+#EXTINF:0,Sky Cinema HD
+http://89.163.140.52:8000/live/fabian123/fabian123/25.ts
+#EXTINF:0,Sky Action HD
+http://89.163.140.52:8000/live/fabian123/fabian123/24.ts
+#EXTINF:0,SKY Atlantic HD
+http://89.163.140.52:8000/live/fabian123/fabian123/96.ts
+#EXTINF:0,SKY 3D
+http://89.163.140.52:8000/live/fabian123/fabian123/19.ts
+#EXTINF:0,Kinowelt HD
+http://89.163.140.52:8000/live/fabian123/fabian123/104.ts
+#EXTINF:0,Sky Universal HD
+http://89.163.140.52:8000/live/fabian123/fabian123/103.ts
+#EXTINF:0,Sky Comedy HD
+http://89.163.140.52:8000/live/fabian123/fabian123/102.ts
+#EXTINF:0,Sky Hits HD
+http://89.163.140.52:8000/live/fabian123/fabian123/11.ts
+#EXTINF:0,Syfy HD
+http://89.163.140.52:8000/live/fabian123/fabian123/29.ts
+#EXTINF:0,Sky TNT Serie HD
+http://89.163.140.52:8000/live/fabian123/fabian123/98.ts
+#EXTINF:0,Sky TNT Film HD
+http://89.163.140.52:8000/live/fabian123/fabian123/99.ts
+#EXTINF:0,Sky Nostalgie
+http://89.163.140.52:8000/live/fabian123/fabian123/101.ts
+#EXTINF:0,SKY MGM HD
+http://89.163.140.52:8000/live/fabian123/fabian123/10.ts
+#EXTINF:0,Sky Krimi HD
+http://89.163.140.52:8000/live/fabian123/fabian123/97.ts
+#EXTINF:0,Sky Fox HD
+http://89.163.140.52:8000/live/fabian123/fabian123/81.ts
+#EXTINF:0,13the Street HD
+http://89.163.140.52:8000/live/fabian123/fabian123/27.ts
+#EXTINF:0,RTL Passion
+http://89.163.140.52:8000/live/fabian123/fabian123/31.ts
+#EXTINF:0,HEIMATKNAL HD
+http://89.163.140.52:8000/live/fabian123/fabian123/22.ts
+#EXTINF:0,Disney Junior HD
+http://89.163.140.52:8000/live/fabian123/fabian123/14.ts
+#EXTINF:0,Disney Cinemagic HD
+http://89.163.140.52:8000/live/fabian123/fabian123/8.ts
+#EXTINF:0,Discovery HD
+http://89.163.140.52:8000/live/fabian123/fabian123/7.ts
+#EXTINF:0,ORF 1 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/86.ts
+#EXTINF:0,ORF 2 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/87.ts
+#EXTINF:0,Web TV HD
+http://89.163.140.52:8000/live/fabian123/fabian123/88.ts
+#EXTINF:0,Spiegel Geschichte
+http://89.163.140.52:8000/live/fabian123/fabian123/85.ts
+#EXTINF:0,Nat Geo Wild HD
+http://89.163.140.52:8000/live/fabian123/fabian123/84.ts
+#EXTINF:0,History HD
+http://89.163.140.52:8000/live/fabian123/fabian123/100.ts
+#EXTINF:0,Sky Nat Geo HD
+http://89.163.140.52:8000/live/fabian123/fabian123/95.ts
+#EXTINF:0,**IPTV_SKY_SPORT**
+http://89.163.140.52:8000/live/fabian123/fabian123/41.ts
+#EXTINF:0,EUROSPORT 1 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/80.ts
+#EXTINF:0,Sky Sport News HD
+http://89.163.140.52:8000/live/fabian123/fabian123/3.ts
+#EXTINF:0,Sky Bundesliga 1 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/4.ts
+#EXTINF:0,Sky Bundesliga 2 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/13.ts
+#EXTINF:0,Sky Bundesliga 3 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/79.ts
+#EXTINF:0,Sky Bundesliga 4 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/78.ts
+#EXTINF:0,Sky Bundesliga 5 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/94.ts
+#EXTINF:0,Sky Bundesliga 6 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/20.ts
+#EXTINF:0,Sky Bundesliga 7 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/91.ts
+#EXTINF:0,Sky Bundesliga 8 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/92.ts
+#EXTINF:0,Sky Bundesliga 9 HD / Sky Sport Austria
+http://89.163.140.52:8000/live/fabian123/fabian123/5.ts
+#EXTINF:0,Sky Bundesliga 10 HD / Eurosport 2HD
+http://89.163.140.52:8000/live/fabian123/fabian123/6.ts
+#EXTINF:0,Sky Sport 1 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/12.ts
+#EXTINF:0,Sky Sport 2 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/16.ts
+#EXTINF:0,Sky Sport 3 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/83.ts
+#EXTINF:0,Sky Sport 4 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/82.ts
+#EXTINF:0,Sky Sport 5 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/9.ts
+#EXTINF:0,Sky Sport 6 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/23.ts
+#EXTINF:0,Sky Sport 7 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/17.ts
+#EXTINF:0,Sky Sport 8 HD
+http://89.163.140.52:8000/live/fabian123/fabian123/93.ts
+#EXTINF:0,****** SKY SELECT ******
+http://89.163.140.52:8000/live/fabian123/fabian123/57.ts
+#EXTINF:0,SKY SELECT 1
+http://89.163.140.52:8000/live/fabian123/fabian123/44.ts
+#EXTINF:0,SKY SELECT 2
+http://89.163.140.52:8000/live/fabian123/fabian123/45.ts
+#EXTINF:0,SKY SELECT 3
+http://89.163.140.52:8000/live/fabian123/fabian123/46.ts
+#EXTINF:0,SKY SELECT 4
+http://89.163.140.52:8000/live/fabian123/fabian123/47.ts
+#EXTINF:0,SKY SELECT 5
+http://89.163.140.52:8000/live/fabian123/fabian123/48.ts
+#EXTINF:0,SKY SELECT 6
+http://89.163.140.52:8000/live/fabian123/fabian123/49.ts
